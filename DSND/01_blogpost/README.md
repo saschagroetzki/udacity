@@ -26,7 +26,7 @@ To be able to embed Plolty Charts on Medium a Ploly Chart account is necessary. 
 The credentials are saved in a `config.yaml` file.
 
 # Results <a name='results'></a>
-The main findings can be found in the blog post here.
+The main findings can be found in this [Medium post](https://medium.com/@s.groetzki/analysing-an-airbnb-dataset-for-seattle-7375f9c87831).
 
 # References <a name='references'></a>
 The data used can be found on Kaggle, see the link above. <br>
