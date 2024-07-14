@@ -3,3 +3,6 @@ data/
 
 # Ignore config file
 config.yaml
+
+# Ignore all files in __pycache
+__pycache__/
